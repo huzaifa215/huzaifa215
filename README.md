@@ -1,11 +1,10 @@
 <body>
 <h1 align="center"> Hi there, I'm Hafiz M Huzaifa Khalid👋 <a href="#"><div align="center"><img src="https://github.com/huzaifa215/huzaifa215/blob/main/WhatsApp%20Image%202021-09-01%20at%204.08.14%20PM.jpeg" width='200'/></div></a> </h1>
 <p align="center">
-  <a href="https://github.com/huzaifa215"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;App+Developer;DS%20|%20AI%20|%20ML|%20NLP|%20Enthusiast;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
+  <a href="https://github.com/huzaifa215"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;APP+Developer;DS%20|%20AI%20|%20ML|%20NLP|%20Enthusiast;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
 </p>
 <h1 align="center"> Connect with me: </h1>
 <p align="center"
-<a href="https://codepen.io/huzaifa215" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="huzaifa215" height="30" width="40" /></a>
 <a href="https://twitter.com/Huzaifa35332877" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="huzaifa215" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hafiz-m-huzaifa-khalid-69048b1b5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="huzaifa215" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13626389/huzaifa-khalid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="huzaifa215" height="30" width="40" /></a>
