@@ -14,7 +14,7 @@
 
 ## Contribution Graph
 
-[![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=huzaifa215&theme=xcode)](https://github.com/huzaifa215)
+[![Huzaifa's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=huzaifa215&theme=xcode)](https://github.com/huzaifa215)
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 <p align="center">
