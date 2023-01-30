@@ -1,5 +1,5 @@
 <body>
-<h1 align="center"> Hi there, I'm Hafiz M Huzaifa Khalid👋 <a href="#"><div align="center"><img src="https://github.com/huzaifa215/huzaifa215/blob/main/WhatsApp%20Image%202021-09-01%20at%204.08.14%20PM.jpeg" width='200'/></div></a> </h1>
+<h1 align="center"> Hi there, I'm Hafiz M Huzaifa Khalid👋 <a href="#"><div align="center"><img src="https://github.com/huzaifa215/huzaifa215/blob/main/profileimage.png" width='200'/></div></a> </h1>
 <p align="center">
   <a href="https://github.com/huzaifa215"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front-End+Web+Developer;Currently+working+on+React%20|%20MySQL%20|%20Node;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
 </p>
