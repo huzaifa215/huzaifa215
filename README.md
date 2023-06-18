@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-    <h1 style="color: #F7CC18FF;">Hi there, I'm Saad Fareed👋<a href="#"></a></h1>
+    <h1 style="color: #F7CC18FF;">Hi there, I'm Hafiz M Huzaifa Khalid👋<a href="#"></a></h1>
   </div>
   <p align="center">
     <a href="https://git.io/typing-svg">
@@ -8,17 +8,11 @@
     </a>
   </p>
 
-  <h2>My Python Development Course</h2>
+  <h3>I'm a WordPress and MERN Developer</h3>
   <ul>
-    <li><a href="https://www.youtube.com/channel/UCSy4EMgtOa5rajZzmXOdTTQ">Youtube channel for Tips</a></li>
-  </ul>
-
-  <h3>I'm a Python Developer, Teacher and Researcher!</h3>
-  <ul>
-    <li>🔭 I’m currently working as a Backend Engineer.</li>
+    <li>🔭 I’m currently working as a Full Stack Develoepr</li>
     <li>🌱 I’m currently expanding my knowledge in MERN Stack.</li>
-    <li>👯 I’m looking to collaborate with other content creators and developers.</li>
-    <li>📢 Love to teach and inspire students. Taught over more than 1000+ students.</li>
+    <li>👯 I want to collaborate with other developers.</li>
     <li>🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.</li>
     <li>💎 If you are a Tech boy/girl let's get connected</li>
   </ul>
