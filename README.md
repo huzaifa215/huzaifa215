@@ -17,8 +17,6 @@
     <li>💎 If you are a Tech boy/girl let's get connected</li>
   </ul>
 	
-
-	
 <h2>Tech Stack</h2>
 
 <table>
