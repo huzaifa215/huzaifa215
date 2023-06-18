@@ -84,10 +84,8 @@
 </tr>
 </table>
 <p align="center">
-  <a href="https://www.linkedin.com/in/saad-fareed/"><img src="https://img.shields.io/badge/-Saad%20Fareed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:saadfareed632@gmail.com"><img src="https://img.shields.io/badge/-saadfareed@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/saadfareed_sadi/"><img src="https://img.shields.io/badge/-@saadfareed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-  <a href="https://leetcode.com/Saadfareed/"><img src="https://img.shields.io/badge/-/saadfareed-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/hafiz-m-huzaifa-khalid-69048b1b5/"><img src="https://img.shields.io/badge/-Hafiz%20M%20Huzaifa%20Khalid-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:hmhuzaifakhalid@gmail.com"><img src="https://img.shields.io/badge/-hmhuzaifakhalid@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <table>
