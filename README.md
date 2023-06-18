@@ -39,9 +39,6 @@
 </tr>
 <tr>
 <td align='center'>
-<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" width="70">
-</td>
-<td align='center'>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width="70">
 </td>
 <td align='center'>
