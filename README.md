@@ -67,15 +67,6 @@
 <td align='center' width="200">
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="100">
 </td>
-</tr>
-<tr>	
-
-<td align='center' width="200">
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"  width="90">
-</td>
-<td align='center' width="200">
-<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"  width="90">
-</td>
 <td align='center' width="200">
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="80">
 </td>
