@@ -56,28 +56,20 @@
 </tr>
 <tr>
 <td align='center' width="200">
-<img src="https://camo.githubusercontent.com/2b97405ead6d87cffc71126648f74f034ab9b77525453aaac85ca79248532854/68747470733a2f2f766567696269742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f657870726573736a732e706e67">
-</td>
-<td align='center' width="200">
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
-</td>
-<td align='center'>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg">
-</td>
-<td align='center' width="200">
-<img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
 </td>
 <td align='center' width="200">
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
 </td>
-</tr>
-<tr>	
 <td align='center' width="200">
 <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png">
 </td>
 <td align='center' width="200">
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="100">
 </td>
+</tr>
+<tr>	
+
 <td align='center' width="200">
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"  width="90">
 </td>
