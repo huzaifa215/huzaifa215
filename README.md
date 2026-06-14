@@ -29,7 +29,7 @@ Full Stack Developer and Cybersecurity Analyst with **5+ years** building secure
 
 - 🔭 **Currently:** Cybersecurity Analyst @ **Vosyn**
 - 🛡️ **Focus:** SIEM monitoring, incident response (NIST SP 800-61) & MITRE ATT&CK mapping
-- 🎓 **Master of Cybersecurity** — Toronto Metropolitan University (4.0 GPA)
+- 🎓 **Master of Cybersecurity** — Toronto Metropolitan University (4.0 CGPA)
 - 📜 **Pursuing:** ISC2 Certified in Cybersecurity (CC) & CompTIA Security+
 - 🌐 **Portfolio:** [huzaifakhalid.dev](https://huzaifakhalid.dev) — projects, case studies & writing
 - 📫 **Reach me:** [hmhuzaifakhalid@gmail.com](mailto:hmhuzaifakhalid@gmail.com)
