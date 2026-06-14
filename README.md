@@ -1,138 +1,87 @@
-<body>
-  <div align="center">
-    <h1 style="color: #F7CC18FF;">Hi there, I'm Hafiz M Huzaifa Khalid👋<a href="#"></a></h1>
-  </div>
-  <p align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=WordPress+Developer+;React+Developer;Front+End+Developer" alt="Typing SVG" />
-    </a>
-  </p>
+<div align="center">
 
-  <h3>I'm a WordPress and MERN Developer</h3>
-  <ul>
-    <li>🔭 I’m currently working as a Full Stack Develoepr</li>
-    <li>💎 I can customize the plugin and themes for WordPress website</li>
-    <li>🌱 I’m currently expanding my knowledge in MERN Stack.</li>
-    <li>👯 I want to collaborate with other developers.</li>
-    <li>🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.</li>
-    
-  </ul>
-	
-<h2>Tech Stack</h2>
+# Hi, I'm Huzaifa Khalid 👋
 
-<table>
-<tr>
-<td align='center'>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="100">
-</td>
-<td align='center'>
-<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="100">
-</td>
-<td align='center'>
-<img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg"  width="100">
-</td>
-<td align='center'>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="100">
-</td>
-<td align='center'>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
-</td>
-</tr>
-<tr>
-<td align='center'>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width="70">
-</td>
-<td align='center'>
-<img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
-</td>
-<td align='center' width="200">
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="170">
-</td>
-<td align='center' width="200">
-<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="90">
-</td>
-<td align='center' width="200">
-<img src="https://camo.githubusercontent.com/2b97405ead6d87cffc71126648f74f034ab9b77525453aaac85ca79248532854/68747470733a2f2f766567696269742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f657870726573736a732e706e67">
-</td>
-</tr>
-<tr>
-<td align='center' width="200">
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
-</td>
-<td align='center' width="200">
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
-</td>
-<td align='center' width="200">
-<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png">
-</td>
-<td align='center' width="200">
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="100">
-</td>
-<td align='center' width="200">
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="80">
-</td>
-</tr>
-<tr>
-<td align='center' width="200">
-<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="150">
-</td>
-<td align='center' width="200">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="90">
-</td>
-<td align='center'>
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-</td>
-</tr>
-</table>
-<p align="center">
-  <a href="https://www.linkedin.com/in/hafiz-m-huzaifa-khalid-69048b1b5/"><img src="https://img.shields.io/badge/-Hafiz%20M%20Huzaifa%20Khalid-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:hmhuzaifakhalid@gmail.com"><img src="https://img.shields.io/badge/-hmhuzaifakhalid@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+### Full Stack Developer & Cybersecurity Analyst
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cybersecurity+Analyst;React+%2B+Angular+%2B+Node.js;SIEM+%2B+Incident+Response+%2B+MITRE+ATT%26CK;I+build+software+and+secure+the+systems+it+runs+on" alt="Typing SVG" />
+</a>
+
+</div>
+
+---
+
+## About Me
+
+I build production software and secure the systems it runs on. Five years of full-stack engineering across React/TypeScript and NestJS/Node.js, now paired with a Master of Cybersecurity (4.0 GPA) and hands-on work in SOC design, incident response, and threat detection.
+
+- 🔭 Currently working as a **Cybersecurity Analyst**
+- 🛡️ Focused on **SIEM monitoring, incident response (NIST SP 800-61), and MITRE ATT&CK mapping**
+- 💻 Five years building **secure, scalable SaaS** with React, Angular, Node.js, and NestJS
+- 🎓 **Master of Cybersecurity** — Toronto Metropolitan University (4.0 GPA)
+- 📜 Pursuing **ISC2 Certified in Cybersecurity (CC)** and **CompTIA Security+**
+- 🌐 Portfolio: **[huzaifakhalid.dev](https://huzaifakhalid.dev)**
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Frontend & Backend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Databases & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Cybersecurity**
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C5203E?style=flat&logo=mitre&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## Connect
+
+<p align="left">
+  <a href="https://huzaifakhalid.dev"><img src="https://img.shields.io/badge/Portfolio-10B981?style=flat&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/devhuzaifakhalid/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:hmhuzaifakhalid@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
-<table>
-  <tr>
-    <th>Stats</th>
-    <th>Streak</th>
-    <th>Languages</th>
-  </tr>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadfareed&theme=gruvbox"/></td>
-    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=saadfareed&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huzaifa215&theme=gruvbox"/></td>
-  </tr>
-</table>
-	
+---
 
-	
-## Personal Projects
+## GitHub Stats
 
-| Project :octocat: | Issues :bug: | Open PRs :bell: | Closed PRs :fire: | Last Commit 🚩 |
-| ----------------- | ------------- | ---------------- | ------------------ | -------------- |
-| [**Leetcode Practice**](https://github.com/saadfareed/Leetcode) | ![GitHub issues](https://img.shields.io/github/issues/saadfareed/Leetcode?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/Leetcode?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Leetcode?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Leetcode?color=blue&logo=github&style=flat) |
-| [**Github Profile**](https://github.com/huzaifa215/huzaifa215) | ![GitHub issues](https://img.shields.io/github/issues/huzaifa215/huzaifa215?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/saadfareed?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/huzaifa215/huzaifa215?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/huzaifa215/huzaifa215?color=blue&logo=github&style=flat) |
-| [**Ecomerence**](https://github.com/huzaifa215/ecommerce-rest-api) | ![GitHub issues](https://img.shields.io/github/issues/huzaifa215/ecommerce-rest-api?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/huzaifa215/ecommerce-rest-api?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/huzaifa215/ecommerce-rest-api?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/huzaifa215/ecommerce-rest-api?color=blue&logo=github&style=flat) |
-| [**Card Recognization**](https://github.com/huzaifa215/cardRecognition) | ![GitHub issues](https://img.shields.io/github/issues/huzaifa215/cardRecognition?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/huzaifa215/cardRecognition?style=flat&logo=github) | ![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/huzaifa215/cardRecognition?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/huzaifa215/cardRecognition?color=blue&logo=github&style=flat) |
+<div align="center">
 
-[![@Huzaifa's Holopin board](https://holopin.io/api/user/board?user=sadi)](https://holopin.io/@huzaifa)
+<!-- Replace USERNAME with your real GitHub username everywhere below -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=react&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=react&hide_border=true" />
 
-## 🚀Github Metrics
+<br/>
 
-<p align="center">
-    <img width="625em" src="https://github.com/huzaifa215/huzaifa215/blob/main/github-metrics.svg" />
-</p>
-    
-## 🐛Github Magic Game
+<img height="165" src="https://github-readme-streak-stats.demolab.com/?user=USERNAME&theme=react&hide_border=true" />
 
-<p align="center">
-  <img src="https://github.com/saadfareed/saadfareed/raw/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
-
-<br>
-
-<p align="center"> 
-  Views<br>
-  <img src="https://profile-counter.glitch.me/saadfareed/count.svg">
-</p>
-		
-![](https://hit.yhype.me/github/profile?user_id=50300882)
-
+</div>
