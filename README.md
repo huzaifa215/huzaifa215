@@ -19,7 +19,7 @@ I build production software and secure the systems it runs on. Five years of ful
 - 🔭 Currently working as a **Cybersecurity Analyst**
 - 🛡️ Focused on **SIEM monitoring, incident response (NIST SP 800-61), and MITRE ATT&CK mapping**
 - 💻 Five years building **secure, scalable SaaS** with React, Angular, Node.js, and NestJS
-- 🎓 **Master of Cybersecurity** — Toronto Metropolitan University (4.0 GPA)
+- 🎓 **Master of Cybersecurity** at Toronto Metropolitan University (4.0 GPA)
 - 📜 Pursuing **ISC2 Certified in Cybersecurity (CC)** and **CompTIA Security+**
 - 🌐 Portfolio: **[huzaifakhalid.dev](https://huzaifakhalid.dev)**
 
@@ -76,12 +76,11 @@ I build production software and secure the systems it runs on. Five years of ful
 
 <div align="center">
 
-<!-- Replace USERNAME with your real GitHub username everywhere below -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=react&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=react&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=huzaifa215&show_icons=true&theme=react&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa215&layout=compact&theme=react&hide_border=true" />
 
 <br/>
 
-<img height="165" src="https://github-readme-streak-stats.demolab.com/?user=USERNAME&theme=react&hide_border=true" />
+<img height="165" src="https://github-readme-streak-stats.demolab.com/?user=huzaifa215&theme=react&hide_border=true" />
 
 </div>
